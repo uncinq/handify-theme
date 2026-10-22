@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1032" height="1032"><svg width="1032" height="1032" viewBox="0 0 1032 1032" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1003_4)">
+<rect width="1024" height="1024" transform="translate(4)" fill="#2F2F2F"></rect>
+<g clip-path="url(#clip0_1003_4)">
+<path d="M434.714 684.896L217.654 902H155.767L127.396 873.622V812.296L345.014 595.179L434.714 684.896ZM232.235 124.137C255.541 123.038 278.819 126.84 300.565 135.295C322.312 143.75 342.045 156.671 358.49 173.226L358.544 173.28L358.599 173.334C376.874 191.174 390.332 213.357 397.713 237.81L397.756 237.948C403.717 256.707 406.012 276.438 404.516 296.064L404.512 296.115L404.509 296.165C403.276 314.799 399.156 333.129 392.297 350.498L389.888 356.602L394.527 361.242L834.653 801.408V801.409L847.272 814.048V856.666L802.704 901.315H760.189L671.755 813.087L307.453 448.507L302.793 443.844L296.671 446.288C276.123 454.493 254.216 458.761 232.092 458.867H232.08C211.163 458.992 190.43 454.951 171.09 446.98C151.761 439.014 134.209 427.282 119.457 412.466C111.617 404.513 104.53 395.85 98.2881 386.589H98.2891C76.8878 354.586 67.1544 316.191 70.7217 277.859L71.8262 270.133L71.8516 269.959L71.8701 269.784C72.7403 261.666 74.2819 253.643 76.4736 245.796L99.2061 268.57L191.705 361.235L194.618 364.153L198.74 364.171C228.439 364.295 257.354 354.639 281.021 336.694L281.675 336.199L282.238 335.604C285.872 331.768 289.159 327.619 292.06 323.202L292.309 322.822L292.522 322.421C303.951 301.008 310.075 277.165 310.38 252.895L310.433 248.684L307.458 245.704L288.88 227.095L264.62 202.789V202.788L192.061 130.1C203.916 126.622 216.173 124.619 228.558 124.148H232L232.235 124.137ZM726.728 155.531L957.298 353.362L834.283 476.4L742.652 390.579L735.588 383.962L728.744 390.808L630.843 488.729L541.134 399L638.505 301.076L645.536 294.006L638.486 286.955L521.902 170.351L563.785 122.935L726.728 155.531Z" stroke="white" stroke-width="20"></path>
+</g>
+</g>
+<defs>
+<filter id="SvgjsFilter1003" x="0" y="0" width="1032" height="1032" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="4"></feOffset>
+<feGaussianBlur stdDeviation="2"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1003_4"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1003_4" result="shape"></feBlend>
+</filter>
+<clipPath id="SvgjsClipPath1002">
+<rect width="912" height="800" fill="white" transform="translate(60 112)"></rect>
+</clipPath>
+</defs>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>

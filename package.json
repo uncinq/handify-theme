@@ -1,0 +1,38 @@
+{
+  "name": "handify-theme",
+  "version": "0.0.0",
+  "homepage": "https://www.handify.io",
+  "repository": "https://github.com/uncinq/handify-theme",
+  "bugs": {
+    "url": "https://github.com/uncinq/handify-theme/issues"
+  },
+  "author": {
+    "email": "sebousan@gmail.com",
+    "name": "Sébastien Moulène",
+    "url": "https://www.sebastienmoulene.com/"
+  },
+  "keywords": [
+    "handify",
+    "hugolify",
+    "hugo",
+    "hugo-theme",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node style-dictionary.config.js"
+  },
+  "devDependencies": {
+    "@hugolify/prettier-config": "^0.3.1",
+    "@uncinq/component-tokens": "^1.0.0",
+    "@uncinq/design-tokens": "^1.0.0",
+    "style-dictionary": "^5.0.0"
+  },
+  "peerDependencies": {
+    "@uncinq/component-tokens": "^1.0.0",
+    "@uncinq/css-base": "^1.0.0",
+    "@uncinq/css-components": "^1.0.0",
+    "@uncinq/design-tokens": "^1.0.0"
+  }
+}

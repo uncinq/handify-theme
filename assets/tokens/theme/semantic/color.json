@@ -1,0 +1,40 @@
+{
+  "color": {
+    "accent": {
+      "default": {
+        "$value": "oklch(30.5% 0 0)",
+        "$type": "color"
+      },
+      "hover": {
+        "$value": "oklch(25% 0 0)",
+        "$type": "color"
+      },
+      "muted": {
+        "$value": "oklch(88% 0 0)",
+        "$type": "color"
+      },
+      "strong": {
+        "$value": "oklch(15% 0 0)",
+        "$type": "color"
+      }
+    },
+    "brand": {
+      "default": {
+        "$value": "oklch(30.5% 0 0)",
+        "$type": "color"
+      },
+      "hover": {
+        "$value": "oklch(25% 0 0)",
+        "$type": "color"
+      },
+      "muted": {
+        "$value": "oklch(88% 0 0)",
+        "$type": "color"
+      },
+      "strong": {
+        "$value": "oklch(15% 0 0)",
+        "$type": "color"
+      }
+    }
+  }
+}
