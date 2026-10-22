@@ -16,6 +16,7 @@
     "hugolify",
     "hugo",
     "hugo-theme",
+    "design-system",
     "bootstrap"
   ],
   "license": "MIT",

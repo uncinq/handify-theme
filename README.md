@@ -8,7 +8,7 @@ Edit `config/_default/module.yaml` to install the `handify-theme` module:
 
 ```yml
 imports:
-  - path: github.com/uncinq/handify-theme/v2
+  - path: github.com/uncinq/handify-theme
   - path: github.com/uncinq/hugolify-theme/v2
 ```
 
