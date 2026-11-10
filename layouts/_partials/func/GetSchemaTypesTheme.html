@@ -1,0 +1,23 @@
+{{/* GetSchemaTypesTheme
+     The schema.org types of the building trades, added to the generic ones of
+     hugolify-theme, see func/GetSchemaTypes.html there.
+
+     All of them descend from HomeAndConstructionBusiness, a LocalBusiness: a
+     trade without a type of its own — mason, tiler, carpenter, landscaper… —
+     takes HomeAndConstructionBusiness.
+*/}}
+{{- $localBusiness := slice
+  "HomeAndConstructionBusiness"
+  "GeneralContractor"
+  "Electrician"
+  "Plumber"
+  "HVACBusiness"
+  "RoofingContractor"
+  "HousePainter"
+  "Locksmith"
+-}}
+
+{{- return (dict
+  "organization" $localBusiness
+  "local_business" $localBusiness
+) -}}

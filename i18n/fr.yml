@@ -1,2 +1,14 @@
+admin:
+  fields:
+    schema_type:
+      options:
+        HomeAndConstructionBusiness: "Artisan du bâtiment"
+        GeneralContractor: "Entreprise générale du bâtiment"
+        Electrician: "Électricien"
+        Plumber: "Plombier"
+        HVACBusiness: "Chauffagiste, climaticien"
+        RoofingContractor: "Couvreur"
+        HousePainter: "Peintre en bâtiment"
+        Locksmith: "Serrurier"
 credit:
   hugolify: un site éco-conçu produit avec <a href="https://www.handify.io" target="_blank" rel="noopener noreferrer" title="« Handify » - lien externe">Handify</a>
